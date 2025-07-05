@@ -1,535 +1,387 @@
-# 🤖 Jarvis AI Assistant - Your Intelligent Digital Companion
+# 🤖 Jarvis AI Assistant - Advanced Personal Digital Assistant
 
 <div align="center">
-  <h1>Jarvis AI Assistant</h1>
-  <p>A cutting-edge AI assistant combining facial recognition, voice interaction, and advanced automation capabilities</p>
+  <h1>🚀 Jarvis AI Assistant v1.0.0</h1>
+  <p>A comprehensive AI-powered personal assistant combining computer vision, voice interaction, automation, and machine learning capabilities</p>
   
   [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
   [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-  [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-  [![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)]()
-  [![Code Style](https://img.shields.io/badge/code%20style-black-black)]()
+  [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-brightgreen)](https://opencv.org/)
+  [![Groq API](https://img.shields.io/badge/Groq-API-orange)](https://groq.com/)
+  [![Status](https://img.shields.io/badge/status-active-success)](https://github.com/yourusername/jarvis)
 </div>
 
 ## 🌟 Features Overview
 
-| Category | Features |
-|----------|----------|
-| **🧠 AI Capabilities** | Natural Language Processing, Voice Interaction, Web Search, Predictive Assistance |
-| **👁️ Computer Vision** | Facial Recognition, Emotion Detection, Object Detection, Gesture Control |
-| **⚙️ Automation** | System Monitoring, Battery Tracking, WhatsApp Integration, File Operations |
-| **🎨 Modern GUI** | Dark Theme, Real-time Status, Chat Interface, Accessibility Features |
+### 🧠 AI & Natural Language Processing
+- **Advanced Chat Interface**: Powered by Groq API for intelligent conversations
+- **Voice Recognition**: Real-time speech-to-text with multiple language support
+- **Text-to-Speech**: Natural voice synthesis with customizable voices
+- **Pattern Recognition**: Machine learning-based user behavior analysis
+- **Predictive Assistance**: AI-powered suggestions based on user habits
+- **Personalization Engine**: Adaptive learning from user interactions
 
-```mermaid
-pie
-    title Core Feature Distribution
-    "AI & NLP" : 35
-    "Computer Vision" : 30
-    "Automation" : 25
-    "User Interface" : 10
-```
+### 👁️ Computer Vision & Recognition
+- **Facial Recognition**: Real-time face detection and recognition using OpenCV
+- **Emotion Detection**: Analyze facial expressions and emotional states
+- **Object Detection**: Identify and classify objects in real-time
+- **Hand Gesture Control**: Control computer with hand gestures using MediaPipe
+- **Training Mode**: Add new faces to the recognition system
 
-## 🎯 Pros and Cons Analysis
+### 📱 Communication & Integration
+- **WhatsApp Integration**: Send messages and make calls through WhatsApp
+- **Contact Management**: SQLite-based contact database
+- **Voice/Video Calling**: Make audio and video calls to contacts
+- **Message Generation**: AI-powered message composition and replies
+- **Instagram Integration**: Social media automation capabilities
 
-### ✅ Pros
+### ⚙️ System Automation & Monitoring
+- **System Health Monitoring**: CPU, memory, disk, and battery tracking
+- **Battery Status**: Real-time battery level monitoring and notifications
+- **File Operations**: Convert images to PDF, file management
+- **Application Control**: Open/close applications, system commands
+- **Reminder System**: Task scheduling and reminder management
+- **Auto-updater**: Automatic software updates and maintenance
 
-1. **Comprehensive Feature Set**
-   - Rich integration of AI, computer vision, and automation capabilities
-   - Multiple interaction modes (voice, text, gestures)
-   - Advanced facial recognition and emotion detection
-   - Real-time system monitoring and battery tracking
+### 🔒 Privacy & Security
+- **End-to-End Encryption**: Secure communications and data protection
+- **Privacy Modes**: Multiple privacy levels (High, Medium, Low)
+- **Secure Key Storage**: Protected API keys and sensitive data
+- **Data Anonymization**: User data protection and anonymization
 
-2. **Modern Architecture**
-   - Well-organized modular structure
-   - Clear separation between frontend and backend
-   - Extensible design pattern
-   - End-to-end encryption support
+### 🎨 Modern User Interface
+- **Dark Theme GUI**: Modern PyQt5-based interface with dark theme
+- **Real-time Status**: Live system status and activity indicators
+- **Chat Interface**: Intuitive chat-based interaction
+- **Settings Panel**: Comprehensive configuration options
+- **Accessibility Features**: Screen reader support and keyboard navigation
 
-3. **User Experience**
-   - Intuitive GUI with dark theme
-   - Multiple accessibility features
-   - Real-time status updates
-   - Cross-platform compatibility
-
-4. **Integration Capabilities**
-   - WhatsApp integration for messaging and calls
-   - Web search functionality
-   - File operations and automation
-   - Contact management system
-
-5. **Security Features**
-   - Facial recognition authentication
-   - Privacy mode implementation
-   - Secure key storage
-   - Data protection mechanisms
-
-### ❌ Cons
-
-
-
-2. **Dependencies**
-   - Relies on numerous external libraries
-   - Complex installation process
-   - Version compatibility issues possible
-   - Internet connection required for many features
-
-3. **Setup Complexity**
-   - Multiple configuration steps needed
-   - API keys required for various services
-   - Directory structure setup required
-   - Initial facial recognition training needed
-
-4. **Limited Platform Support**
-   - Primary focus on Windows 10/11
-   - Some features may not work on other operating systems
-   - Hardware requirements (webcam, microphone) mandatory
-   - Limited mobile device support
-
-5. **Maintenance Challenges**
-   - Regular updates needed for AI models
-   - Log file management required
-   - Generated content cleanup necessary
-   - System health monitoring needed
-
-## ⚡ Quick Start
+## 🚀 Quick Start
 
 ### 📋 Prerequisites
-```markdown
-✓ Python 3.8 or higher
-✓ Windows 10/11
-✓ Webcam & Microphone
-✓ Internet Connection
-```
+- **Python 3.8+** (Required)
+- **Windows 10/11** (Primary support)
+- **Webcam** (For facial recognition and gesture control)
+- **Microphone** (For voice interaction)
+- **Internet Connection** (For AI features and updates)
 
-### 🚀 Installation
-```bash
-# Clone the repository
-git clone [repository-url]
-cd jarvis
+### 🛠️ Installation
 
-# Install dependencies
-python install_dependencies.py
-# OR
-pip install -r Requirements.txt
-
-# Launch Jarvis
-python Main.py
-```
-
-## 🏗️ Project Architecture
-
-```bash
-jarvis/
-├── 🧠 Backend/           # Core AI & automation
-├── 🎨 Frontend/          # Modern GUI components
-├── 📊 Data/              # Data resources
-├── 🤖 models/            # AI/ML models
-├── ⚙️ config/            # Configuration files
-├── 📝 logs/              # System logs
-├── 🔧 generated_code/    # Auto-generated content
-├── 🖼️ generated_images/  # Generated images
-├── 🔐 secure_keys/       # Security & encryption
-└── 🧹 cleanup_scripts/   # Maintenance utilities
-```
-
-## 💡 Key Features Deep Dive
-
-### 🤖 AI Assistant Capabilities
-- 🗣️ Natural language understanding
-- 🔊 Voice-based interaction
-- 🌐 Real-time web search
-- 📱 WhatsApp integration
-- 🧮 Pattern recognition
-- 🔒 End-to-end encryption
-
-### 👁️ Computer Vision Features
-- 👤 Facial recognition auth
-- 😊 Emotion detection
-- 🖐️ Hand gesture control
-- 📷 Object detection
-- 🎥 Real-time processing
-
-### ⚙️ System Integration
-- 💻 System health tracking
-- 🔋 Battery monitoring
-- 📱 App automation
-- 📞 Contact management
-- 📁 File operations
-
-## 🛠️ Configuration
-
-### 🔧 Environment Setup
-1. Create required directories:
+1. **Clone the Repository**
    ```bash
-   mkdir generated_code generated_images logs models
+   git clone https://github.com/yourusername/jarvis-ai-assistant.git
+   cd jarvis-ai-assistant
    ```
 
-2. Configure API keys:
+2. **Install Dependencies** (Automatic)
    ```bash
-   # Set up secure keys
-   cp .env.example .env
-   # Edit .env with your API keys
+   python install_dependencies.py
+   ```
+   
+   Or manually:
+   ```bash
+   pip install -r Requirements.txt
    ```
 
-### ⚙️ Customization
+3. **Set Up Environment Variables**
+   Create a `.env` file in the root directory:
+   ```env
+   GROQ_API_KEY=your_groq_api_key_here
+   # Add other API keys as needed
+   ```
+
+4. **Initialize Required Directories**
+   The application will automatically create necessary directories:
+   - `Backend/Data/` - User data and personalization
+   - `Backend/config/` - Configuration files
+   - `logs/` - System logs
+   - `generated_code/` - AI-generated code
+   - `generated_images/` - AI-generated images
+
+### 🎯 First Run
+
+1. **Launch Jarvis**
+   ```bash
+   python Main.py
+   ```
+
+2. **Set Up Facial Recognition** (Optional)
+   - Add face images to `Backend/samples/` directory
+   - Name them as `face.[ID].1.jpg` (e.g., `face.john.1.jpg`)
+   - Or use legacy format: `known_person.jpg`, `known_person2.jpg`
+
+3. **Configure Voice Settings**
+   - Test microphone and speakers
+   - Adjust voice recognition sensitivity
+   - Set preferred text-to-speech voice
+
+## 📁 Project Structure
+
+```
+jarvis-ai-assistant/
+├── 🎯 Main.py                    # Main application entry point
+├── 📦 install_dependencies.py    # Automatic dependency installer
+├── 📋 Requirements.txt          # Python dependencies
+├── 📄 README.md                 # This documentation
+├── 🔧 version.json              # Version information
+├── 📱 facial_recognition_app.py # Standalone face recognition
+├── 🖥️ Frontend/                 # GUI components and interface
+│   ├── GUI.py                   # Main GUI implementation
+│   └── Graphics/                # UI assets and images
+├── 🧠 Backend/                  # Core AI and automation
+│   ├── Model.py                 # AI decision making
+│   ├── Chatbot.py              # Chat interface
+│   ├── SpeechToText.py         # Voice recognition
+│   ├── TextToSpeech.py         # Voice synthesis
+│   ├── RealtimeSearchEngine.py # Web search capabilities
+│   ├── Automation.py           # System automation
+│   ├── whatsapp.py             # WhatsApp integration
+│   ├── call.py                 # Voice/video calling
+│   ├── object_detection.py     # Computer vision
+│   ├── hand_main.py            # Gesture control
+│   ├── auto_updater.py         # Software updates
+│   ├── e2e_encryption.py       # Security features
+│   ├── simple_*.py             # Modular AI components
+│   ├── Data/                   # User data and patterns
+│   ├── config/                 # Configuration files
+│   └── samples/                # Face recognition samples
+├── 📊 logs/                     # System logs and debugging
+├── 🔐 secure_keys/              # Protected API keys
+├── 🧹 cleanup_scripts/          # Maintenance utilities
+├── 🎨 generated_images/         # AI-generated images
+├── 💻 generated_code/           # AI-generated code
+└── 📞 contacts.db               # Contact database
+```
+
+## 🎮 Usage Guide
+
+### 💬 Voice Commands
+
+**Basic Interaction:**
+- "Hello Jarvis" - Start conversation
+- "Go to sleep" - Put Jarvis in sleep mode
+- "Wake up" - Wake Jarvis from sleep mode
+
+**System Commands:**
+- "Check system status" - Get system health report
+- "Battery status" - Check battery level
+- "Show reminders" - Display scheduled reminders
+- "Set reminder to [task] at [time]" - Create new reminder
+
+**Communication:**
+- "Send message to [contact]" - Send WhatsApp message
+- "Call [contact]" - Make voice call
+- "Video call [contact]" - Make video call
+
+**Computer Vision:**
+- "Start emotion detection" - Begin emotion analysis
+- "Turn on hand gesture" - Enable gesture control
+- "Object detection" - Start object recognition
+
+**File Operations:**
+- "Convert image to PDF" - Image to PDF conversion
+- "Open [application]" - Launch applications
+- "Close [application]" - Close applications
+
+### 🖱️ Hand Gesture Control
+
+When enabled, control your computer with hand gestures:
+- **Cursor Mode**: Move cursor with index finger
+- **Click Mode**: Click with thumb and index finger
+- **Scroll Mode**: Scroll with hand movements
+- **Volume Control**: Adjust system volume
+- **Zoom Control**: Zoom in/out in applications
+
+### 🎯 GUI Interface
+
+The modern GUI provides:
+- **Home Screen**: System status and quick actions
+- **Chat Interface**: Text-based interaction with Jarvis
+- **Settings Panel**: Configuration and preferences
+- **Real-time Indicators**: System status and activity
+
+**Keyboard Shortcuts:**
+- `Ctrl+H`: Home screen
+- `Ctrl+C`: Chat screen
+- `Ctrl+S`: Settings panel
+- `Ctrl+M`: Microphone off
+- `Ctrl+U`: Microphone on
+- `Escape`: Exit application
+
+## 🔧 Configuration
+
+### 🎙️ Voice Settings
 ```json
 {
-  "gesture_control": true,
-  "voice_commands": true,
-  "dark_theme": true,
+  "voice_enabled": true,
+  "voice_speed": 1.0,
+  "voice_volume": 1.0,
   "language": "en"
 }
 ```
 
-## 🔍 Troubleshooting Guide
+### 🔒 Privacy Settings
+```json
+{
+  "privacy_level": "medium",
+  "data_collection": true,
+  "secure_mode": false
+}
+```
 
-<details>
-<summary>🎥 Facial Recognition Issues</summary>
+### 📡 System Monitoring
+```json
+{
+  "cpu_threshold": 85,
+  "memory_threshold": 85,
+  "disk_threshold": 90,
+  "battery_threshold": 15,
+  "monitoring_interval": 60
+}
+```
 
-- ✔️ Check proper lighting
-- ✔️ Verify webcam permissions
-- ✔️ Update training data
-</details>
+## 🧪 Advanced Features
 
-<details>
-<summary>🎤 Voice Recognition Issues</summary>
+### 🔬 Machine Learning Components
+- **Pattern Recognition**: Learns from user behavior patterns
+- **Predictive Assistance**: Suggests actions based on context
+- **Reinforcement Learning**: Improves responses over time
+- **Personalization Engine**: Adapts to user preferences
 
-- ✔️ Test microphone settings
-- ✔️ Check audio input
-- ✔️ Minimize background noise
-</details>
+### 🔐 Security Features
+- **End-to-End Encryption**: All communications encrypted
+- **Secure Key Management**: Protected API key storage
+- **Privacy Modes**: Multiple privacy levels
+- **Data Anonymization**: Personal data protection
 
-<details>
-<summary>🔌 System Integration Issues</summary>
+### 📊 System Integration
+- **Real-time Monitoring**: System health and performance
+- **Battery Management**: Power monitoring and optimization
+- **Application Control**: System-wide automation
+- **File Operations**: Advanced file management
 
-- ✔️ Verify file permissions
-- ✔️ Check API keys
-- ✔️ Test internet connection
-</details>
+## 🐛 Troubleshooting
+
+### 🎥 Camera Issues
+- **Error**: "Could not access camera"
+- **Solution**: Check camera permissions, close other applications using camera
+- **Alternative**: Try different camera indices (0, 1, 2)
+
+### 🎤 Microphone Issues
+- **Error**: "Speech recognition failed"
+- **Solution**: Check microphone permissions, test audio input
+- **Alternative**: Use text-based interaction
+
+### 🔧 Installation Issues
+- **Error**: "Module not found"
+- **Solution**: Run `python install_dependencies.py` again
+- **Alternative**: Install manually with `pip install -r Requirements.txt`
+
+### 🚫 Performance Issues
+- **Issue**: Slow response times
+- **Solution**: Close unnecessary applications, check system resources
+- **Alternative**: Disable computer vision features temporarily
+
+## 🔄 Updates and Maintenance
+
+### 📦 Automatic Updates
+Jarvis includes an auto-updater that:
+- Checks for new versions automatically
+- Downloads and installs updates
+- Maintains user data and settings
+
+### 🧹 Maintenance Tasks
+- **Log Management**: Automatic log rotation and cleanup
+- **Data Cleanup**: Removes temporary files and cache
+- **Model Updates**: Updates AI models and recognition data
+- **Database Optimization**: Maintains contact and user databases
+
+## 📈 Performance Optimization
+
+### 🚀 Speed Improvements
+- **Parallel Processing**: Multiple threads for different tasks
+- **Smart Caching**: Cache frequently used data
+- **Efficient Models**: Optimized AI models for faster processing
+- **Resource Management**: Dynamic resource allocation
+
+### 💾 Memory Management
+- **Automatic Cleanup**: Cleans up unused resources
+- **Smart Loading**: Loads modules only when needed
+- **Cache Limits**: Prevents memory overflow
+- **Garbage Collection**: Efficient memory cleanup
 
 ## 🤝 Contributing
 
-We welcome contributions! Follow these steps:
+We welcome contributions! Here's how to get started:
 
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch
+1. **Fork the Repository**
    ```bash
-   git checkout -b feature/AmazingFeature
+   git fork https://github.com/yourusername/jarvis-ai-assistant.git
    ```
-3. 💾 Commit your changes
+
+2. **Create Feature Branch**
    ```bash
-   git commit -m 'Add amazing feature'
+   git checkout -b feature/amazing-feature
    ```
-4. 📤 Push to the branch
+
+3. **Make Changes**
+   - Follow Python PEP 8 style guidelines
+   - Add tests for new features
+   - Update documentation
+
+4. **Submit Pull Request**
    ```bash
-   git push origin feature/AmazingFeature
+   git commit -m "Add amazing feature"
+   git push origin feature/amazing-feature
    ```
-5. 🔄 Open a Pull Request
 
-## 🔐 Security Features
+## 📚 API Documentation
 
-- 🔒 End-to-end encryption
-- 🗝️ Secure key storage
-- 🕶️ Privacy mode
-- 🔑 Access control
-- 🛡️ Data protection
+### 🔗 Core Functions
+- `MainExecution()`: Main processing loop
+- `SpeechRecognition()`: Voice input processing
+- `TextToSpeech()`: Voice output generation
+- `FirstLayerDMM()`: Decision making model
 
-## 📜 License
+### 🎯 Extension Points
+- **Custom Commands**: Add new voice commands
+- **AI Models**: Integrate additional AI models
+- **Plugins**: Create custom plugins
+- **Themes**: Design custom GUI themes
+
+## 🌐 External Dependencies
+
+### 🔧 Required APIs
+- **Groq API**: For AI chat completion
+- **OpenCV**: For computer vision
+- **MediaPipe**: For hand gesture recognition
+- **PyQt5**: For GUI interface
+
+### 📦 Python Packages
+See `Requirements.txt` for complete list of dependencies.
+
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👏 Acknowledgments
+## 🙏 Acknowledgments
 
-- 🙌 Contributors and maintainers
-- 📚 Third-party libraries
-- 🛠️ Development tools
+- **OpenCV Community**: For computer vision capabilities
+- **Groq**: For AI model access
+- **MediaPipe**: For hand gesture recognition
+- **Face Recognition Library**: For facial recognition
+- **PyQt5**: for GUI framework
+- **All Contributors**: Thank you for making this project better!
 
-## 📊 Version History
+## 📞 Support
 
-Check `version.json` for detailed version information.
+- **GitHub Issues**: [Report bugs and request features](https://github.com/yourusername/jarvis-ai-assistant/issues)
+- **Discussions**: [Join the community](https://github.com/yourusername/jarvis-ai-assistant/discussions)
+- **Documentation**: [Read the docs](https://github.com/yourusername/jarvis-ai-assistant/wiki)
 
 ---
 
 <div align="center">
-  Made with ❤️ by the Jarvis Team
-  <br>
-  <a href="https://github.com/yourusername/jarvis/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/yourusername/jarvis/issues">Request Feature</a>
-</div>
-
-## 🎮 Quick Code Example
-
-```python
-# Initialize Jarvis with facial recognition
-from jarvis.core import JarvisAI
-from jarvis.vision import FaceRecognition
-
-# Create Jarvis instance
-jarvis = JarvisAI()
-
-# Initialize facial recognition
-face_recognition = FaceRecognition()
-
-# Start interaction
-jarvis.start()
-```
-
-## 📫 Contact & Support
-
-Need help? Got questions? Want to contribute?
-
-- 📧 Email: [contact@jarvis-ai.com](mailto:contact@jarvis-ai.com)
-- 💬 Discord: [Join our community](https://discord.gg/jarvis)
-- 🌟 GitHub: [Star us](https://github.com/yourusername/jarvis)
-
-# Facial Recognition Application with Jarvis AI Assistant
-
-This is a facial recognition application with Jarvis AI assistant that uses your webcam to detect and recognize faces. The application can identify people whose face images are provided and includes an advanced AI assistant with speech recognition and automation capabilities.
-
-## Prerequisites
-
-This application requires the following Python packages:
-- OpenCV (`opencv-python`)
-- face_recognition
-- NumPy
-- And other dependencies listed in Requirements.txt
-
-You can install these packages using pip:
-```
-pip install -r Requirements.txt
-```
-
-## Features
-
-### Facial Recognition
-- Face detection and recognition
-- User authentication via facial recognition
-- Training mode to add new faces
-
-### Jarvis AI Assistant
-- Voice-based interaction
-- Natural language understanding
-- Web search capabilities
-- Application automation
-- Text-to-speech responses
-- Content generation
-
-## How to Set Up
-
-1. **Prepare face images**: 
-   - Save at least one face image in the same directory as the script
-   - Name your images "known_person.jpg" and "known_person2.jpg" (or modify the script to use your own file names)
-   - Each image should contain a clear, well-lit picture of a single person's face
-
-2. **Run the application**:
-   ```
-   python Main.py
-   ```
-
-3. **Using the application**:
-   - The application will open your webcam and start detecting faces
-   - Recognized faces will have a box drawn around them with the person's name
-   - Unknown faces will be labeled as "Unknown"
-   - Once authenticated, Jarvis AI assistant will be available
-
-## Operation Modes
-
-The application has two modes:
-
-1. **Recognition Mode**: When sample images are loaded successfully, the app will recognize faces and match them against known faces.
-
-2. **Detection-Only Mode**: If no sample images are found or loaded, the app will run in detection-only mode, where it will detect faces but label all of them as "Detected Face".
-
-## Customizing
-
-To recognize different people or more people:
-1. Add more image files
-2. Modify the script to load these additional images
-3. Add corresponding names to the `known_face_names` list
-
-## Troubleshooting
-
-### Missing Image Files
-- If you see a warning about missing image files, make sure your face images are in the same directory as the script
-
-### Webcam Issues
-- If the webcam doesn't open or shows errors about grabbing frames:
-  - Make sure your webcam is connected and working properly
-  - Check if any other application is using the webcam (close them)
-  - Try restarting your computer
-  - If you're on Windows, check your privacy settings to ensure Python has permission to access the camera
-  - Try using a different webcam by changing the parameter in `cv2.VideoCapture(0)` to `cv2.VideoCapture(1)` or another number
-
-### Recognition Issues
-- If faces are not being recognized properly:
-  - Try improving the lighting conditions 
-  - Use higher quality reference images
-  - Make sure the face is clearly visible in your reference images
-  - Try different angles or expressions in your reference images 
-
-## GUI Interface
-
-### Visual Overview
-
-The Jarvis interface is organized into several key components as shown in the diagram below:
-
-```mermaid
-graph TD
-    A["Main Window"] --> B["Home Screen"]
-    A --> C["Chat Screen"]
-    A --> D["Settings Panel"]
-    
-    B --> E["Face Recognition"]
-    B --> F["Voice Commands"]
-    
-    C --> G["Chat History"]
-    C --> H["Message Input"]
-    C --> I["Voice Toggle"]
-    
-    D --> J["Audio Settings"]
-    D --> K["Visual Settings"]
-    D --> L["Recognition Settings"]
-    
-    style A fill:#2d2d2d,stroke:#666,color:#fff
-    style B fill:#1e1e1e,stroke:#666,color:#fff
-    style C fill:#1e1e1e,stroke:#666,color:#fff
-    style D fill:#1e1e1e,stroke:#666,color:#fff
-```
-
-### Interface Components
-
-1. **Home Screen**
-   - Face Recognition Display: Real-time webcam feed with face detection
-   - Status Indicators: System state and recognition status
-   - Quick Action Buttons: Common commands and settings
-
-2. **Chat Screen**
-   - Message History: Scrollable chat interface with user and Jarvis messages
-   - Input Area: Text input field with voice command toggle
-   - Response Display: Formatted AI responses with syntax highlighting for code
-
-3. **Settings Panel**
-   - Audio Configuration: Microphone selection and volume controls
-   - Visual Preferences: Theme selection and display options
-   - Recognition Settings: Face detection sensitivity and training options
-
-### Theme and Design
-
-The interface uses a modern dark theme with:
-- Background: Dark gray (#2d2d2d)
-- Text: Light gray for better readability
-- Accent Colors:
-  - Primary: #007AFF (Blue)
-  - Success: #28a745 (Green)
-  - Warning: #ffc107 (Yellow)
-  - Error: #dc3545 (Red)
-
-### Accessibility Features
-
-- High contrast mode available
-- Keyboard navigation support
-- Screen reader compatibility
-- Adjustable text size
-- Color-blind friendly indicators
-
-## GUI Improvements (Latest Update)
-
-The Jarvis GUI has been completely redesigned with a modern dark theme and improved usability:
-
-### New Features
-- **Modern Dark Theme**: Sleek dark background with color-coded elements for better readability
-- **Card-Based Layout**: All elements are contained in floating cards with drop shadows
-- **Improved Status Indicators**: Visual feedback for system states (listening, processing, error)
-- **Animated Elements**: Smooth animations for microphone toggling and status indicators
-- **Better Chat Experience**: Redesigned chat section with improved formatting and scrolling
-- **Window Controls**: Added proper window management with minimize and close buttons
-- **Keyboard Shortcuts**: Added more keyboard shortcuts for improved navigation
-  - Ctrl+H: Home screen
-  - Ctrl+C: Chat screen
-  - Ctrl+S: Settings panel
-  - Ctrl+M: Turn microphone off
-  - Ctrl+U: Turn microphone on
-  - Escape: Exit application
-
-### Technical Improvements
-- Optimized animations and transitions for better performance
-- Fixed file path issues to use relative paths instead of absolute paths
-- More intuitive microphone toggle with visual feedback
-- Improved error handling with proper exception logging
-- Unified color theme with global color variables for consistency
-- Responsive layout that adapts to different screen sizes
-- Better component organization for easier maintenance
-- Fixed QLayout warnings by correctly structuring widget hierarchy
-- Enhanced error handling and recovery for better stability
-
-## Launching the GUI
-
-There are multiple ways to start the Jarvis GUI:
-
-### Standard Launch (Recommended)
-```
-python launch_gui.py
-```
-This uses the enhanced launcher that provides better error handling and logging.
-
-### Direct Launch
-```
-python Frontend/GUI.py
-```
-Direct launch without additional error handling.
-
-### Troubleshooting
-
-If the GUI fails to launch or crashes:
-
-1. **Check the logs directory** - Error logs are saved in the `logs` folder
-2. **Missing graphics files** - The launcher should automatically create required data files, but you may need to manually copy missing image files to the `Frontend/Graphics` directory
-3. **Python path issues** - Use the launcher script which automatically sets up the proper Python path
-4. **Window visibility issues** - The GUI is set to show at 80% of your screen size. If you don't see the window, try pressing Alt+Tab to cycle through windows 
-
-# Code Generator Bot using Groq API
-
-A command-line tool that generates code based on user prompts using the Groq API.
-
-## Setup
-
-1. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Set up your Groq API key as an environment variable:
-```bash
-# On Windows (PowerShell)
-$env:GROQ_API_KEY="your-api-key-here"
-
-# On Windows (Command Prompt)
-set GROQ_API_KEY=your-api-key-here
-
-# On Linux/MacOS
-export GROQ_API_KEY="your-api-key-here"
-```
-
-## Usage
-
-Run the code generator by providing your prompt as a command-line argument:
-
-```bash
-python Backend/code_generator_bot.py "write a function that calculates fibonacci sequence"
-```
-
-The tool will generate code based on your prompt and display it in the console.
-
-## Features
-
-- Uses Groq's Mixtral-8x7b model for code generation
-- Generates well-documented and efficient code
-- Includes necessary imports and explanations
-- Simple command-line interface
-
-## Notes
-
-- Make sure your Groq API key is properly set before running the tool
-- The generated code quality depends on the clarity and specificity of your prompt
-- The tool requires an active internet connection to communicate with the Groq API 
+  <p>Made with ❤️ by the Jarvis AI Team</p>
+  <p>⭐ Star us on GitHub if you find this project useful!</p>
+</div> 
