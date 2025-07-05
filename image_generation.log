@@ -1,0 +1,45 @@
+2025-06-14 18:25:54,410 - ERROR - Huggingface API Key not found. Please add it to your .env file.
+2025-06-14 18:26:35,412 - INFO - Generating images for prompt: generate image tony stark
+2025-06-14 18:26:36,446 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:36,446 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:36,446 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:39,263 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:39,263 - WARNING - Skipping saving image 1 due to API failure.
+2025-06-14 18:26:39,263 - WARNING - Skipping saving image 2 due to API failure.
+2025-06-14 18:26:39,263 - WARNING - Skipping saving image 3 due to API failure.
+2025-06-14 18:26:39,263 - WARNING - Skipping saving image 4 due to API failure.
+2025-06-14 18:26:39,263 - ERROR - No images were successfully generated
+2025-06-14 18:26:39,263 - ERROR - Image generation failed
+2025-06-14 18:26:53,975 - INFO - Generating images for prompt: generate image tony stark
+2025-06-14 18:26:54,462 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:54,873 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:54,929 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:59,684 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:26:59,684 - WARNING - Skipping saving image 1 due to API failure.
+2025-06-14 18:26:59,684 - WARNING - Skipping saving image 2 due to API failure.
+2025-06-14 18:26:59,684 - WARNING - Skipping saving image 3 due to API failure.
+2025-06-14 18:26:59,684 - WARNING - Skipping saving image 4 due to API failure.
+2025-06-14 18:26:59,690 - ERROR - No images were successfully generated
+2025-06-14 18:26:59,690 - ERROR - Image generation failed
+2025-06-14 18:28:03,701 - INFO - Generating images for prompt: generate image tony stark
+2025-06-14 18:28:04,623 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:28:04,623 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:28:04,705 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:28:06,764 - ERROR - Payment required. Please check your Hugging Face account status.
+2025-06-14 18:28:06,764 - WARNING - Skipping saving image 1 due to API failure.
+2025-06-14 18:28:06,764 - WARNING - Skipping saving image 2 due to API failure.
+2025-06-14 18:28:06,764 - WARNING - Skipping saving image 3 due to API failure.
+2025-06-14 18:28:06,764 - WARNING - Skipping saving image 4 due to API failure.
+2025-06-14 18:28:06,764 - ERROR - No images were successfully generated
+2025-06-14 18:28:06,773 - ERROR - Image generation failed
+2025-06-14 18:30:43,730 - INFO - Generating images for prompt: generate image tony stark
+2025-06-14 18:30:44,806 - ERROR - Payment required. Please check your Hugging Face account status or use a different model.
+2025-06-14 18:30:44,902 - ERROR - Payment required. Please check your Hugging Face account status or use a different model.
+2025-06-14 18:30:45,175 - ERROR - Payment required. Please check your Hugging Face account status or use a different model.
+2025-06-14 18:30:45,501 - ERROR - Payment required. Please check your Hugging Face account status or use a different model.
+2025-06-14 18:30:45,506 - WARNING - Skipping saving image 1 due to API failure.
+2025-06-14 18:30:45,506 - WARNING - Skipping saving image 2 due to API failure.
+2025-06-14 18:30:45,506 - WARNING - Skipping saving image 3 due to API failure.
+2025-06-14 18:30:45,506 - WARNING - Skipping saving image 4 due to API failure.
+2025-06-14 18:30:45,508 - ERROR - No images were successfully generated
+2025-06-14 18:30:45,508 - ERROR - Image generation failed

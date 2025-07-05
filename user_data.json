@@ -1,0 +1,105 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      }
+    },
+    {
+      "timestamp": "2025-05-05T22:56:28.846139",
+      "day_of_week": "Monday",
+      "hour": 22,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      }
+    }
+  ],
+  "daily_patterns": {
+    "Monday_22": {
+      "app_launch": 5,
+      "music": 3,
+      "timer_set": 1
+    }
+  },
+  "favorite_apps": {
+    "Outlook": 5
+  },
+  "reminders": [],
+  "preferences": {}
+}

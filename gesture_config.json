@@ -1,0 +1,12 @@
+{
+    "sensitivity": 1.0,
+    "click_threshold": 0.05,
+    "scroll_threshold": 0.1,
+    "scroll_speed": 50,
+    "zoom_sensitivity": 1.0,
+    "smoothing_window": 5,
+    "activation_gesture_hold_time": 1.0,
+    "screen_width": null,
+    "screen_height": null,
+    "enable_multi_monitor": false
+}

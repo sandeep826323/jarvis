@@ -1,0 +1,48 @@
+2025-07-01 18:29:47,117 - INFO - Service started successfully
+2025-07-01 18:29:47,117 - INFO - Monitoring input file: C:\Users\alpha\Desktop\jarvis\Frontend\Files\ImageGeneration.data
+2025-07-01 18:31:22,353 - INFO - Service started successfully
+2025-07-01 18:31:22,353 - INFO - Monitoring input file: F:\jarvis\Frontend\Files\ImageGeneration.data
+2025-07-01 18:31:22,353 - INFO - Processing request for prompt: Generate Tonny stark
+2025-07-01 18:31:22,360 - INFO - Starting image generation process
+2025-07-01 18:31:22,360 - INFO - Sending request to A4F API with prompt: Generate Tonny stark, quality=4k, sharpness=maximu...
+2025-07-01 18:31:22,508 - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.a4f.co/v1/images/generations
+2025-07-01 18:31:22,517 - ERROR - Image generation failed
+2025-07-01 18:31:22,519 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark1.jpg
+2025-07-01 18:31:22,520 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark2.jpg
+2025-07-01 18:31:22,520 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark3.jpg
+2025-07-01 18:31:22,521 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark4.jpg
+2025-07-01 18:31:22,522 - INFO - Request processed successfully
+2025-07-01 18:31:57,138 - INFO - Service started successfully
+2025-07-01 18:31:57,139 - INFO - Monitoring input file: F:\jarvis\Frontend\Files\ImageGeneration.data
+2025-07-01 18:32:02,144 - INFO - Processing request for prompt: Generate Tonny stark
+2025-07-01 18:32:02,147 - INFO - Starting image generation process
+2025-07-01 18:32:02,147 - INFO - Sending request to A4F API with prompt: Generate Tonny stark, quality=4k, sharpness=maximu...
+2025-07-01 18:32:02,306 - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.a4f.co/v1/images/generations
+2025-07-01 18:32:02,306 - ERROR - Image generation failed
+2025-07-01 18:32:02,306 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark1.jpg
+2025-07-01 18:32:02,306 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark2.jpg
+2025-07-01 18:32:02,316 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark3.jpg
+2025-07-01 18:32:02,316 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark4.jpg
+2025-07-01 18:32:02,317 - INFO - Request processed successfully
+2025-07-01 18:43:47,121 - INFO - Service started successfully
+2025-07-01 18:43:47,121 - INFO - Starting image generation service
+2025-07-01 18:43:51,139 - INFO - Processing request for: Generate Tonny stark
+2025-07-01 18:43:51,139 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark1.jpg
+2025-07-01 18:43:51,139 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark2.jpg
+2025-07-01 18:43:51,139 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark3.jpg
+2025-07-01 18:43:51,139 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark4.jpg
+2025-07-01 18:43:51,139 - INFO - Request processed
+2025-07-01 18:44:00,155 - INFO - Processing request for: Generate Tonny stark
+2025-07-01 18:44:00,156 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark1.jpg
+2025-07-01 18:44:00,156 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark2.jpg
+2025-07-01 18:44:00,168 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark3.jpg
+2025-07-01 18:44:00,168 - WARNING - Image not found: C:\Users\alpha\Downloads\Generate_Tonny_stark4.jpg
+2025-07-01 18:44:00,170 - INFO - Request processed
+2025-07-01 18:47:17,727 - INFO - Service started successfully
+2025-07-01 18:47:17,727 - INFO - Starting image generation service
+2025-07-01 18:47:19,845 - INFO - Processing request for: Generate Tonny stark
+2025-07-01 18:47:19,847 - INFO - Generating images for: Tonny stark
+2025-07-01 18:47:19,848 - INFO - Sending request to A4F API with prompt: Tonny stark, high quality, detailed, 4k resolution...
+2025-07-01 18:47:20,010 - ERROR - API Error 400: {"detail":{"error":{"message":"Model 'provider-1/FLUX.1-schnell' allows a maximum of 1 image(s) per request on your current plan ('free'). You requested 4.","type":"invalid_request_error","param":"n","code":"n_exceeds_model_limit_for_plan"}}}
+2025-07-01 18:47:20,010 - ERROR - Image generation failed
+2025-07-01 18:47:20,010 - INFO - Request processed

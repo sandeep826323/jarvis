@@ -1,0 +1,57 @@
+{
+  "greeting": {
+    "description": "User greetings",
+    "examples": [
+      "hello",
+      "hi there",
+      "good morning",
+      "hey jarvis",
+      "hello jarvis",
+      "hi"
+    ]
+  },
+  "farewell": {
+    "description": "User saying goodbye",
+    "examples": [
+      "goodbye",
+      "bye",
+      "see you later",
+      "bye jarvis",
+      "good night",
+      "that's all for now"
+    ]
+  },
+  "check_weather": {
+    "description": "User asking about weather",
+    "examples": [
+      "what's the weather like",
+      "is it going to rain today",
+      "weather forecast",
+      "temperature outside",
+      "will it be sunny tomorrow",
+      "check weather"
+    ]
+  },
+  "play_music": {
+    "description": "User wants to play music",
+    "examples": [
+      "play some music",
+      "play jazz",
+      "I want to listen to rock",
+      "put on my playlist",
+      "play spotify",
+      "music please"
+    ]
+  },
+  "set_timer": {
+    "description": "User wants to set a timer",
+    "examples": [
+      "set a timer for 5 minutes",
+      "timer 10 minutes",
+      "start a 2 minute timer",
+      "countdown for 30 seconds",
+      "set alarm for 5 minutes",
+      "time 15 minutes"
+    ]
+  }
+}

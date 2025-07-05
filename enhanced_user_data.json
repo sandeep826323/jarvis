@@ -1,0 +1,5255 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:28:45.243175",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535189",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.535382",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T12:31:22.543602",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.990161",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T12:33:31.994922",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.444477",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T12:37:14.450457",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:19:49.992722",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:19:50.006527",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.048644",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:23:04.059594",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.033110",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:23:15.041407",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.069312",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:23:36.099793",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.549386",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:23:57.560950",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:24:23.999635",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:24:24.012963",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.389632",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.390131",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:25:01.424652",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.504315",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:25:16.523363",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.086364",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:25:26.105417",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.447725",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:32:21.453540",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.583047",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:34:39.590611",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.001438",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:36:25.013861",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.147034",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:36:34.152273",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "Outlook",
+        "purpose": "checking emails"
+      },
+      "location": "work"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "music",
+      "details": {
+        "genre": "jazz",
+        "duration": "45 minutes"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.901961",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "timer_set",
+      "details": {
+        "duration": "5 minutes"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-09T21:37:30.914002",
+      "day_of_week": "Friday",
+      "hour": 21,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "chrome"
+      },
+      "location": "home"
+    },
+    {
+      "timestamp": "2025-05-10T15:49:40.669679",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Yes."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:49:41.961743",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Yes.",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:49:57.918897",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Check mail."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:49:58.827298",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "email"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:50:08.816041",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Play some music."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:51:04.141022",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Okay bye."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:53:19.829313",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is sophisticated?"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:53:21.572533",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is sophisticated?",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:53:44.045477",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation indian sophisticated?"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:53:45.868235",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation indian sophisticated?",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:54:19.985894",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation in gene sophisticated compatibilities?"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:54:21.243997",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation in gene sophisticated compatibilities?",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:54:53.629748",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation engine sophisticated compatibility?"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:54:55.372486",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "What is personalisation engine sophisticated compatibility?",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:55:31.469349",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Suggest some music at a time."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:55:32.930892",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "suggest some music",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:56:37.519355",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Play some music as per opinion."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:56:57.951481",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Open whatsapp."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:56:59.898784",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "app_launch",
+      "details": {
+        "app_name": "whatsapp"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:57:07.576455",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Make video call to deep."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T15:58:22.878296",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "activity_type": "query",
+      "details": {
+        "text": "Go to sleep."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:02:22.697783",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "Can you eat parle g biscuit?"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:02:24.018731",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "can you eat parle g biscuit?",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:02:55.060846",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "Can i give you physical body."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:02:56.313526",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "can i give you physical body.",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:03:31.196518",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "Play bhojpuri song."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:03:33.328532",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "play bhojpuri song.",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:04:08.043142",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "Play pawan singh."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:04:53.771935",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "Kuchh bole."
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-10T16:05:02.920515",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "activity_type": "query",
+      "details": {
+        "text": "kuchh bole.",
+        "type": "general"
+      },
+      "location": null
+    },
+    {
+      "timestamp": "2025-05-11T01:31:50.504758",
+      "day_of_week": "Sunday",
+      "hour": 1,
+      "activity_type": "test",
+      "details": {
+        "details": "debug test"
+      },
+      "location": "3b272397e39a768453bc048163ddc3a2a32a8130c1f3bb519d8aaf20c13dd747"
+    },
+    {
+      "timestamp": "2025-05-11T01:34:09.806260",
+      "day_of_week": "Sunday",
+      "hour": 1,
+      "activity_type": "test",
+      "details": {
+        "details": "debug test"
+      },
+      "location": "072c7335b831b06906cee7d332ebbd56878fa0a59d27a73aa5a25c5dbdafb724"
+    },
+    {
+      "timestamp": "2025-05-11T19:03:05.412554",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Hello jarvis."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:03:07.042075",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "hello jarvis.",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:03:32.530963",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me after 5 minute later to research for jarvis."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:04:00.339399",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Turn on hand gesture mode."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:04:20.807281",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Error in hand gesture module cannot access local variable cv to where it is not associated with a value?"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:04:22.192682",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Error in hand gesture module cannot access local variable cv to where it is not associated with a value?",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:05:41.589781",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Turn on emotion detection."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:06:18.674060",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Set hobby to jogging at 8:00 a.m."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:06:35.074269",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "At hobby jog 8:00 a.m."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:06:50.362170",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Battery."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:07:02.239806",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Mobile."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:07:03.346961",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Mobile.",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:07:56.551187",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "System."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:07:57.430990",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "system",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:08:46.518734",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Scooty."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:08:48.050745",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Scooty.",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:09:21.248269",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Cycle."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:09:22.354060",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "cycle.",
+        "type": "general"
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:10:32.614790",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Go to sleep."
+      },
+      "location": "f4429c3d3751f87bf7981b8fb99d2f9de6578b1aff5690ef72295209ff68001e"
+    },
+    {
+      "timestamp": "2025-05-11T19:29:18.433718",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What i can do?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:29:20.149248",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "what i can do?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:30:32.626832",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Get recommendations."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:30:40.977177",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "get recommendations.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:31:45.554935",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:31:47.204315",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:32:01.783086",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Update my location to bihar."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:32:13.780340",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "update my location to bihar.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:33:10.927631",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Mobile dikhaiye."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:33:12.320347",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Mobile dikhaiye.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:34:32.741895",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Set privacy level to high."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:34:34.237697",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "set privacy level to high.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:34:50.068422",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "How to check?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:34:51.324671",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "How to check?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:35:18.808205",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Set my greeting."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:35:19.795950",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "set my greeting.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:35:39.710119",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Export profile."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:35:40.910782",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "export profile.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:37:35.253172",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Get recommendations for home."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:37:36.807832",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "get recommendations for home.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:14.626943",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What is my private syllabus?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:15.881973",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What is my private syllabus?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:31.814090",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What is my privacy level?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:33.152639",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my privacy level?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:58.723422",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What are the benefit of privacy level?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:38:59.817441",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What are the benefit of privacy level?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:00.616761",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Add habit."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:01.927577",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "add habit.",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:17.486356",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Add a new habit going to jogging at 8:00 a.m."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:31.126881",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Add habit to going jogging for 8:00 a.m."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:40.830613",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "And habit to going jog for 8:00 a.m."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:40:51.206125",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Set habit to going jog at 8:00 a.m."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:41:05.114600",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder after 5 minute going to lunch."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:42:14.882858",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:42:16.194344",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?",
+        "type": "general"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:42:35.324134",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Add a new schedule for tomorrow meeting at 9:00 a.m."
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T19:42:52.978057",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "5ccfa61d866cfc63300abd2e27f43e6954d3442a96222f4e12ff80a52898e882"
+    },
+    {
+      "timestamp": "2025-05-11T22:41:57.346350",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:42:16.896576",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Add a new reminder for today after 5 minute going to lunch."
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:42:45.369236",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have lunch after 5 minute."
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:43:15.652749",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have lunch after 5 minute."
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:43:41.756193",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for meeting tomorrow at 4:00 p.m."
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:43:55.602197",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:44:06.815593",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder for tomorrow?"
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:44:07.988592",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder for tomorrow?",
+        "type": "general"
+      },
+      "location": "b61127c4564c61cc41ec6202d16fc31b8676e9e6c2da96d9e5656fc95924c2db"
+    },
+    {
+      "timestamp": "2025-05-11T22:46:00.577804",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for tomorrow meeting for 8:00 p.m."
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:46:30.333144",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have lunch after 5 minute."
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:46:56.312369",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have lunch after 5 minutes."
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:47:21.213006",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for meeting tomorrow at 4:00 p.m."
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:47:41.545351",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call mom on 12/05/2018 10:00 a.m."
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:48:06.291499",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:48:16.570431",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "e8f3fe81f858aaaf7537275b50bf9ee482d8808456d94dcf2b9b8bd91f5e33ce"
+    },
+    {
+      "timestamp": "2025-05-11T22:53:03.369171",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Theek hai bhaiya raat ko kapde chalkar subah paise milte hi de dungi."
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:53:05.144611",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Theek hai bhaiya raat ko kapde chalkar subah paise milte hi de dungi.",
+        "type": "general"
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:53:21.517507",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "Add new reminder."
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:53:22.701572",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "add new reminder.",
+        "type": "general"
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:53:53.715859",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "And new reminder to have a lunch after 5 minute."
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:54:13.417235",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "And schedule to meeting tomorrow on 8:00 a.m."
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:54:47.293546",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T22:55:18.065231",
+      "day_of_week": "Sunday",
+      "hour": 22,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "eebde1cbe54225db03933365eef2e33f9104b30edd6e5f8ed33329cc7e86cc65"
+    },
+    {
+      "timestamp": "2025-05-11T23:04:16.717212",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:04:30.240863",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Add new reminder to have a lunch after 5 minutes."
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:04:45.491517",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:05:18.855531",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Schedule to meeting for tomorrow at 9:00 p.m."
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:05:36.610712",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:05:48.598084",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:06:08.497638",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule for tomorrow?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:06:21.745858",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule for tomorrow?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:06:33.553505",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:07:06.156693",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Dekha amar computer 4 din 18 ghanta 20 minut."
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:07:07.630502",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Dekha amar computer 4 din 18 ghanta 20 minut.",
+        "type": "general"
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:07:25.206755",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Battery."
+      },
+      "location": "b10561d16a5ca6d3e59635b6a7767989ab34e414d21713df6bc2f4a4f5b0bfd2"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:01.583003",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:14.219989",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Had a new reminder for tomorrow have a meeting at."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:15.567557",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Had a new reminder for tomorrow have a meeting at.",
+        "type": "general"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:28.418574",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:37.681212",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my schedule for tomorrow?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:15:53.605790",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Add a new reminder for tomorrow meeting at 10:00 a.m."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:16:07.175296",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:16:23.841844",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Add new reminder for today."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:16:50.002201",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have lunch after 5 minutes."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:17:07.663300",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for today?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:17:20.211543",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:17:45.491573",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call deep on 12 5:25 at 10:00 a.m."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:18:04.661285",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder 8:25?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:18:30.209865",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call deep 1152 2025 at 10:00 a.m."
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:18:54.504738",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 25 to 15?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:19:27.128207",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder on 12th may 2025?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:19:46.298670",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:20:07.642092",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 12525 88 a.m?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:20:43.335649",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 12th may 2025?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:21:04.450640",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 12/05/2015?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:21:27.695505",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 12:05/2015?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:21:53.783534",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for 12 5 2025?"
+      },
+      "location": "c19a5a22ca2482cf070c63101f0d5b05e1d7eea38e9c58b87ec37d2bc687e85d"
+    },
+    {
+      "timestamp": "2025-05-11T23:30:21.361831",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder on 12th may 2025?"
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:30:41.505999",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder for tomorrow?"
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:30:53.013737",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Add new reminder."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:31:20.758355",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to have a lunch after 5 minutes."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:31:35.439061",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for 5 minutes have a lunch."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:32:09.229536",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Reminder set reminder for meeting tomorrow at 4:00 p.m."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:32:43.198576",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Reminder to call on mom."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:33:08.106088",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:33:33.808403",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call on mom."
+      },
+      "location": "152b07cb7174f177e2d3232ccfd6df9b66b7d387adc864d2f84903fe1f9f92f5"
+    },
+    {
+      "timestamp": "2025-05-11T23:34:28.214484",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder to have a lunch after 1 hours."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:35:12.833785",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call deep on 12th may 2025."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:36:05.151649",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for today?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:36:17.018611",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder for tomorrow?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:36:51.608047",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:37:06.762162",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder to have a lunch on tomorrow at 5:00 p.m."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:37:27.852520",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call deep on 13th may june 25 8 3 p.m."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:38:00.678551",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:38:25.198722",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder on 13th june 2025?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:38:41.728835",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Add new reminder on 13th may 2005."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:39:11.194857",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call mom on 15th may 2025 at 9:00 a.m."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:39:28.774013",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's reminder on 15th may 2025?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:40:01.119783",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "Remind me to call mum on 15th may 2025."
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-11T23:40:18.554093",
+      "day_of_week": "Sunday",
+      "hour": 23,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder on 15th may 2025?"
+      },
+      "location": "9e3701a535b5cb238cf22d5b266b0c6c9d2de8ed72d89a5d002f3e53c97a428c"
+    },
+    {
+      "timestamp": "2025-05-12T00:28:18.857307",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "Add every day reminder."
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:28:55.170790",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "Daily reminder to going workout at 9:00 a.m."
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:29:08.833498",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my daily reminder?"
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:29:39.995804",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder?"
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:30:03.794655",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "What's my reminder for tomorrow?"
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:30:27.665305",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "Set reminder for meeting tomorrow at 9:00 p.m."
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-12T00:30:41.329552",
+      "day_of_week": "Monday",
+      "hour": 0,
+      "activity_type": "query",
+      "details": {
+        "text": "What's the reminder for tomorrow?"
+      },
+      "location": "c24428b996165d86f67ce8074126ab73c36920d51c8fb895591e64731a6857a7"
+    },
+    {
+      "timestamp": "2025-05-14T19:25:20.729356",
+      "day_of_week": "Wednesday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "Morning kab ki chal rahi hai iski good evening."
+      },
+      "location": "714813e6344162f67e007c2391291b255082b46729f9f71520079c32582bd67b"
+    },
+    {
+      "timestamp": "2025-05-15T11:53:49.128516",
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "activity_type": "query",
+      "details": {
+        "full_query": "sal ka tujhe fayda nahin pata hai.",
+        "timestamp": "2025-05-15T11:53:49.128516",
+        "common_terms": [
+          "nahin",
+          "fayda",
+          "pata",
+          "ka",
+          "sal",
+          "tujhe",
+          "hai."
+        ]
+      },
+      "location": "f1968597149d4a4230b2b3f1279137587053f4983c2a26330acc891ab16889db"
+    },
+    {
+      "timestamp": "2025-05-15T17:49:27.604795",
+      "day_of_week": "Thursday",
+      "hour": 17,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set xender mail.",
+        "timestamp": "2025-05-15T17:49:27.604795",
+        "common_terms": [
+          "set",
+          "mail.",
+          "xender"
+        ]
+      },
+      "location": "9f920a5c898fef9bb0ed7440406ccd2e50a9f781fb1ce08e9a7b12fcdd10ac94"
+    },
+    {
+      "timestamp": "2025-05-15T17:52:52.890258",
+      "day_of_week": "Thursday",
+      "hour": 17,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T17:52:52.890258",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "ae040821d69ff897387a7d90484368e190b83384ccb18e2732f1fdde0bffd180"
+    },
+    {
+      "timestamp": "2025-05-15T18:01:42.594390",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T18:01:42.594390",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "7aa0535b8015dc483af0ad654a0fcd5f068dd70e92bd78f490b4683029dffe9a"
+    },
+    {
+      "timestamp": "2025-05-15T18:03:58.071413",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T18:03:58.071413",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "f06ff6fdbb62472cf3d3270507f236b5d7a40c5c92f45decbcd725b284cbb9ac"
+    },
+    {
+      "timestamp": "2025-05-15T18:06:19.540662",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "breakup jarvis.",
+        "timestamp": "2025-05-15T18:06:19.540662",
+        "common_terms": [
+          "breakup",
+          "jarvis."
+        ]
+      },
+      "location": "cefe783c39a72e7f852a800156476a5f7ee78a06baa9f01ac11395a2c1b85fb5"
+    },
+    {
+      "timestamp": "2025-05-15T18:09:21.772643",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T18:09:21.772643",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:09:23.185782",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "hello.",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:09:34.070082",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my gender?",
+        "timestamp": "2025-05-15T18:09:34.070082",
+        "common_terms": [
+          "my",
+          "what",
+          "is",
+          "gender?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:09:35.223706",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my gender?",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:09:48.531380",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set birth date 1995.",
+        "timestamp": "2025-05-15T18:09:48.531380",
+        "common_terms": [
+          "1995.",
+          "set",
+          "date",
+          "birth"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:10:13.061213",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T18:10:13.061213",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:10:13.839760",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "hello.",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:10:25.258899",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set date of birth 2005 and 5.",
+        "timestamp": "2025-05-15T18:10:25.258899",
+        "common_terms": [
+          "set",
+          "date",
+          "2005",
+          "5.",
+          "and",
+          "birth",
+          "of"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:10:40.245104",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set date of birth 2005 and 5.",
+        "timestamp": "2025-05-15T18:10:40.245104",
+        "common_terms": [
+          "set",
+          "date",
+          "2005",
+          "5.",
+          "and",
+          "birth",
+          "of"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:10:53.562686",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set date of birth 2005 my 5.",
+        "timestamp": "2025-05-15T18:10:53.562686",
+        "common_terms": [
+          "set",
+          "date",
+          "2005",
+          "5.",
+          "my",
+          "birth",
+          "of"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:03.074351",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set a date of birth 5 my 2005.",
+        "timestamp": "2025-05-15T18:11:03.074351",
+        "common_terms": [
+          "set",
+          "date",
+          "a",
+          "5",
+          "my",
+          "birth",
+          "of",
+          "2005."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:04.079953",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "set a date of birth 5 may 2005.",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:18.028411",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set wet 48 kg.",
+        "timestamp": "2025-05-15T18:11:18.028411",
+        "common_terms": [
+          "kg.",
+          "set",
+          "48",
+          "wet"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:18.914829",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "set wet 48 kg.",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:30.698203",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set height 9.5.",
+        "timestamp": "2025-05-15T18:11:30.698203",
+        "common_terms": [
+          "9.5.",
+          "set",
+          "height"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:46.099493",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set height 5.8 feet.",
+        "timestamp": "2025-05-15T18:11:46.099493",
+        "common_terms": [
+          "feet.",
+          "set",
+          "height",
+          "5.8"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:56.487656",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my gender?",
+        "timestamp": "2025-05-15T18:11:56.487656",
+        "common_terms": [
+          "my",
+          "what",
+          "is",
+          "gender?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:11:57.349011",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my gender?",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:07.274146",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my date of birth?",
+        "timestamp": "2025-05-15T18:12:07.274146",
+        "common_terms": [
+          "date",
+          "is",
+          "of",
+          "birth?",
+          "my",
+          "what"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:08.150573",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my date of birth?",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:17.883701",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my height?",
+        "timestamp": "2025-05-15T18:12:17.883701",
+        "common_terms": [
+          "my",
+          "what",
+          "is",
+          "height?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:18.675700",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my height?",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:33.368536",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set height 5.9 feet.",
+        "timestamp": "2025-05-15T18:12:33.368536",
+        "common_terms": [
+          "feet.",
+          "set",
+          "5.9",
+          "height"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:41.585047",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my height?",
+        "timestamp": "2025-05-15T18:12:41.585047",
+        "common_terms": [
+          "my",
+          "what",
+          "is",
+          "height?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:12:43.615557",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my height?",
+        "type": "general"
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:13:10.263401",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set steps goal 12000 steps.",
+        "timestamp": "2025-05-15T18:13:10.263401",
+        "common_terms": [
+          "steps",
+          "set",
+          "12000",
+          "goal",
+          "steps."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:13:27.427050",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set step goal.",
+        "timestamp": "2025-05-15T18:13:27.427050",
+        "common_terms": [
+          "set",
+          "step",
+          "goal."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:13:40.348688",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "12 steps.",
+        "timestamp": "2025-05-15T18:13:40.348688",
+        "common_terms": [
+          "steps.",
+          "12"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:13:59.995828",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "12 steps.",
+        "timestamp": "2025-05-15T18:13:59.995828",
+        "common_terms": [
+          "steps.",
+          "12"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:14:18.361406",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set step goal 12:00 1000 steps.",
+        "timestamp": "2025-05-15T18:14:18.361406",
+        "common_terms": [
+          "set",
+          "1000",
+          "12:00",
+          "goal",
+          "steps.",
+          "step"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:14:35.545320",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my goal?",
+        "timestamp": "2025-05-15T18:14:35.545320",
+        "common_terms": [
+          "my",
+          "what",
+          "is",
+          "goal?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:14:49.904885",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is step goals?",
+        "timestamp": "2025-05-15T18:14:49.904885",
+        "common_terms": [
+          "what",
+          "is",
+          "step",
+          "goals?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:15:23.929141",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set hard point goal 20 points.",
+        "timestamp": "2025-05-15T18:15:23.929141",
+        "common_terms": [
+          "set",
+          "20",
+          "points.",
+          "point",
+          "goal",
+          "hard"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:15:53.431947",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set hot point goal 20 points.",
+        "timestamp": "2025-05-15T18:15:53.431947",
+        "common_terms": [
+          "set",
+          "hot",
+          "20",
+          "points.",
+          "point",
+          "goal"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:16:11.905628",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness summary.",
+        "timestamp": "2025-05-15T18:16:11.905628",
+        "common_terms": [
+          "fitness",
+          "summary."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:17:22.639477",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness recommendations.",
+        "timestamp": "2025-05-15T18:17:22.639477",
+        "common_terms": [
+          "recommendations.",
+          "fitness"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:18:08.170416",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "give me fitness recommendations.",
+        "timestamp": "2025-05-15T18:18:08.170416",
+        "common_terms": [
+          "me",
+          "recommendations.",
+          "fitness",
+          "give"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:18:54.669140",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is step goal?",
+        "timestamp": "2025-05-15T18:18:54.669140",
+        "common_terms": [
+          "what",
+          "is",
+          "step",
+          "goal?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:19:35.300399",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set step goal 20000 steps.",
+        "timestamp": "2025-05-15T18:19:35.300399",
+        "common_terms": [
+          "set",
+          "20000",
+          "goal",
+          "steps.",
+          "step"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:19:48.432423",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is steps goal?",
+        "timestamp": "2025-05-15T18:19:48.432423",
+        "common_terms": [
+          "steps",
+          "what",
+          "is",
+          "goal?"
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:20:16.773083",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness summary.",
+        "timestamp": "2025-05-15T18:20:16.773083",
+        "common_terms": [
+          "fitness",
+          "summary."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:20:43.621937",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness summary.",
+        "timestamp": "2025-05-15T18:20:43.621937",
+        "common_terms": [
+          "fitness",
+          "summary."
+        ]
+      },
+      "location": "0ac026e20856e7d55a3bfd43c22fa3fd212a8b978f3b6eb30b480d71087f537a"
+    },
+    {
+      "timestamp": "2025-05-15T18:22:22.946884",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my step bol?",
+        "timestamp": "2025-05-15T18:22:22.946884",
+        "common_terms": [
+          "step",
+          "my",
+          "bol?",
+          "is",
+          "what"
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:22:24.495848",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my step goal?",
+        "type": "general"
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:22:36.358716",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "so my step bone.",
+        "timestamp": "2025-05-15T18:22:36.358716",
+        "common_terms": [
+          "step",
+          "so",
+          "my",
+          "bone."
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:22:37.545954",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "so my step bone.",
+        "type": "general"
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:22:57.414362",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my step goal?",
+        "timestamp": "2025-05-15T18:22:57.414362",
+        "common_terms": [
+          "step",
+          "my",
+          "goal?",
+          "is",
+          "what"
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:23:25.457999",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set step goal to 12000 steps.",
+        "timestamp": "2025-05-15T18:23:25.457999",
+        "common_terms": [
+          "step",
+          "steps.",
+          "set",
+          "to",
+          "goal",
+          "12000"
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:23:35.341938",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my step goals?",
+        "timestamp": "2025-05-15T18:23:35.341938",
+        "common_terms": [
+          "step",
+          "my",
+          "is",
+          "what",
+          "goals?"
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:23:56.026697",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my fitness summary one day?",
+        "timestamp": "2025-05-15T18:23:56.026697",
+        "common_terms": [
+          "my",
+          "summary",
+          "one",
+          "day?",
+          "is",
+          "what",
+          "fitness"
+        ]
+      },
+      "location": "b7c387e14e7d0906db61be5a46bad1d7657a5d5e8b7c2f37fb1df84ef4868c0a"
+    },
+    {
+      "timestamp": "2025-05-15T18:29:49.125874",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T18:29:49.125874",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:29:50.493268",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "text": "hello.",
+        "type": "general"
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:30:01.572692",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "so current process percentage.",
+        "timestamp": "2025-05-15T18:30:01.572692",
+        "common_terms": [
+          "so",
+          "process",
+          "current",
+          "percentage."
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:30:15.062480",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "so steps taken and reminder steps.",
+        "timestamp": "2025-05-15T18:30:15.062480",
+        "common_terms": [
+          "steps.",
+          "reminder",
+          "steps",
+          "taken",
+          "so",
+          "and"
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:30:32.289370",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "so steps taken and remaining steps.",
+        "timestamp": "2025-05-15T18:30:32.289370",
+        "common_terms": [
+          "steps.",
+          "remaining",
+          "steps",
+          "taken",
+          "so",
+          "and"
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:30:48.158216",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness report.",
+        "timestamp": "2025-05-15T18:30:48.158216",
+        "common_terms": [
+          "report.",
+          "fitness"
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:31:04.504562",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "get fitness report daily report.",
+        "timestamp": "2025-05-15T18:31:04.504562",
+        "common_terms": [
+          "report.",
+          "get",
+          "report",
+          "daily",
+          "fitness"
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:32:24.566825",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "get fitness report for week.",
+        "timestamp": "2025-05-15T18:32:24.566825",
+        "common_terms": [
+          "for",
+          "get",
+          "report",
+          "fitness",
+          "week."
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T18:32:55.022529",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "activity_type": "query",
+      "details": {
+        "full_query": "fitness recommendations.",
+        "timestamp": "2025-05-15T18:32:55.022529",
+        "common_terms": [
+          "recommendations.",
+          "fitness"
+        ]
+      },
+      "location": "bfdbc7005eaa00685718a0d738e8aae13530a796eae3d281c488b20567446a76"
+    },
+    {
+      "timestamp": "2025-05-15T19:10:58.933104",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "get fitness recommendation.",
+        "timestamp": "2025-05-15T19:10:58.933104",
+        "common_terms": [
+          "fitness",
+          "get",
+          "recommendation."
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:11:00.346584",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "get fitness recommendation.",
+        "type": "general"
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:11:44.353962",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "kya fitness recommendation.",
+        "timestamp": "2025-05-15T19:11:44.353962",
+        "common_terms": [
+          "fitness",
+          "recommendation.",
+          "kya"
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:11:45.410663",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "kya fitness recommendation.",
+        "type": "general"
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:12:06.874936",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "set fitness recommendation.",
+        "timestamp": "2025-05-15T19:12:06.874936",
+        "common_terms": [
+          "fitness",
+          "recommendation.",
+          "set"
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:12:08.010659",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "set fitness recommendation.",
+        "type": "general"
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:12:42.132740",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "what is my fitness recommendation?",
+        "timestamp": "2025-05-15T19:12:42.132740",
+        "common_terms": [
+          "my",
+          "recommendation?",
+          "is",
+          "fitness",
+          "what"
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:12:43.345030",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "text": "what is my fitness recommendation?",
+        "type": "general"
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:13:26.225037",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "today reminder.",
+        "timestamp": "2025-05-15T19:13:26.225037",
+        "common_terms": [
+          "today",
+          "reminder."
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T19:13:59.492838",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "activity_type": "query",
+      "details": {
+        "full_query": "today reminder.",
+        "timestamp": "2025-05-15T19:13:59.492638",
+        "common_terms": [
+          "today",
+          "reminder."
+        ]
+      },
+      "location": "3e6a387457e2eab2a54639052c5241693680f69b79493ddcc95b37d8e40eba2f"
+    },
+    {
+      "timestamp": "2025-05-15T21:19:29.370806",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "hello.",
+        "timestamp": "2025-05-15T21:19:29.370806",
+        "common_terms": [
+          "hello."
+        ]
+      },
+      "location": "eb5463b4459fc33cd33ef1140e7104eeb09da224813fb3e3a58fff1ad56f0874"
+    },
+    {
+      "timestamp": "2025-05-15T21:19:42.567378",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "hello.",
+        "type": "general"
+      },
+      "location": "eb5463b4459fc33cd33ef1140e7104eeb09da224813fb3e3a58fff1ad56f0874"
+    },
+    {
+      "timestamp": "2025-05-15T21:20:38.646339",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "5000 steps are completed.",
+        "timestamp": "2025-05-15T21:20:38.646339",
+        "common_terms": [
+          "completed.",
+          "are",
+          "steps",
+          "5000"
+        ]
+      },
+      "location": "eb5463b4459fc33cd33ef1140e7104eeb09da224813fb3e3a58fff1ad56f0874"
+    },
+    {
+      "timestamp": "2025-05-15T21:21:02.789086",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "5000 steps are completed.",
+        "type": "general"
+      },
+      "location": "eb5463b4459fc33cd33ef1140e7104eeb09da224813fb3e3a58fff1ad56f0874"
+    },
+    {
+      "timestamp": "2025-05-15T21:33:07.244589",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "goal of 10000 today 7 progress zero.",
+        "timestamp": "2025-05-15T21:33:07.244589",
+        "common_terms": [
+          "today",
+          "7",
+          "goal",
+          "zero.",
+          "progress",
+          "10000",
+          "of"
+        ]
+      },
+      "location": "63fb0525559609e589e8b8d7fc154b412468b11b215b439e1a204fcf5b6fa831"
+    },
+    {
+      "timestamp": "2025-05-15T21:38:30.213222",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "10000 today come in progress zero.",
+        "timestamp": "2025-05-15T21:38:30.213222",
+        "common_terms": [
+          "in",
+          "10000",
+          "come",
+          "progress",
+          "zero.",
+          "today"
+        ]
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:38:32.770150",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "10000 today come in progress zero.",
+        "type": "general"
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:00.340463",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "10000 today current progress zero.",
+        "timestamp": "2025-05-15T21:39:00.339467",
+        "common_terms": [
+          "current",
+          "10000",
+          "progress",
+          "zero.",
+          "today"
+        ]
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:02.269636",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "10000 today current progress zero.",
+        "type": "general"
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:16.057798",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "update step 25000.",
+        "timestamp": "2025-05-15T21:39:16.057798",
+        "common_terms": [
+          "25000.",
+          "step",
+          "update"
+        ]
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:17.743006",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "update step 25000.",
+        "type": "general"
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:37.581741",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "12000 today.",
+        "timestamp": "2025-05-15T21:39:37.581741",
+        "common_terms": [
+          "today.",
+          "12000"
+        ]
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:39.302794",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "12000 today.",
+        "type": "general"
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:57.635296",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "you have in reach your steps goal of 12000 today covered progress zero.",
+        "timestamp": "2025-05-15T21:39:57.635296",
+        "common_terms": [
+          "in",
+          "goal",
+          "have",
+          "covered",
+          "12000",
+          "you",
+          "your",
+          "steps",
+          "reach",
+          "of",
+          "progress",
+          "zero.",
+          "today"
+        ]
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:39:59.343744",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "you have in reach your steps goal of 12000 today covered progress zero.",
+        "type": "general"
+      },
+      "location": "34146a4c07373685441c29b388e162ab4d158c8574835023ff3937fea718cd17"
+    },
+    {
+      "timestamp": "2025-05-15T21:46:04.885045",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "comment progress zero.",
+        "timestamp": "2025-05-15T21:46:04.885045",
+        "common_terms": [
+          "progress",
+          "comment",
+          "zero."
+        ]
+      },
+      "location": "1b09e0d93c6577d66d565dc54b86fe46c59ce06bd56318030abe1a69265adfdd"
+    },
+    {
+      "timestamp": "2025-05-15T21:46:07.616343",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "comment progress zero.",
+        "type": "general"
+      },
+      "location": "1b09e0d93c6577d66d565dc54b86fe46c59ce06bd56318030abe1a69265adfdd"
+    },
+    {
+      "timestamp": "2025-05-15T21:46:32.626654",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "full_query": "comment progressive.",
+        "timestamp": "2025-05-15T21:46:32.626654",
+        "common_terms": [
+          "comment",
+          "progressive."
+        ]
+      },
+      "location": "1b09e0d93c6577d66d565dc54b86fe46c59ce06bd56318030abe1a69265adfdd"
+    },
+    {
+      "timestamp": "2025-05-15T21:46:41.659378",
+      "day_of_week": "Thursday",
+      "hour": 21,
+      "activity_type": "query",
+      "details": {
+        "text": "comment progressive.",
+        "type": "general"
+      },
+      "location": "1b09e0d93c6577d66d565dc54b86fe46c59ce06bd56318030abe1a69265adfdd"
+    }
+  ],
+  "daily_patterns": {
+    "Friday_12": {
+      "app_launch": 23,
+      "music": 12,
+      "timer_set": 4
+    },
+    "Friday_21": {
+      "app_launch": 84,
+      "music": 42,
+      "timer_set": 14
+    }
+  },
+  "favorite_apps": {
+    "Outlook": 90,
+    "chrome": 17
+  },
+  "reminders": [],
+  "preferences": {
+    "theme": "dark"
+  },
+  "habits": {
+    "morning_journal": {
+      "name": "morning_journal",
+      "time_window": "08:00-09:00",
+      "days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "location": null,
+      "streak": 1,
+      "last_completed": "2025-05-09T21:37:30.901961",
+      "created_at": "2025-05-09T21:37:30.901961"
+    },
+    "evening_reading": {
+      "name": "evening_reading",
+      "time_window": "20:00-21:00",
+      "days": [
+        "Sunday",
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "location": "home",
+      "streak": 1,
+      "last_completed": "2025-05-09T21:37:30.901961",
+      "created_at": "2025-05-09T21:37:30.901961"
+    },
+    "evening_workout": {
+      "name": "evening_workout",
+      "time_window": "18:00-19:00",
+      "days": [
+        "monday",
+        "wednesday",
+        "friday"
+      ],
+      "location": "gym",
+      "streak": 0,
+      "last_completed": null,
+      "created_at": "2025-05-09T21:37:30.914002"
+    }
+  },
+  "locations": {
+    "work": {
+      "app_launch": 90
+    },
+    "home": {
+      "music": 54,
+      "app_launch": 17
+    }
+  },
+  "version": "2.0"
+}
