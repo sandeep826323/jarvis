@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 import os
 from datetime import datetime, timedelta
 import psutil  # You'll need to install this package: pip install psutil
@@ -18,6 +18,7 @@ import json
 import logging
 import traceback
 from collections import defaultdict
+from typing import Optional, List, Dict, Any
 
 # Initialize auto updater and e2e encryption
 auto_updater = AutoUpdater(app_name="jarvis")
@@ -175,10 +176,12 @@ except ImportError as e:
     print(f"Import failed: {e}")  # Debugging
     raise
 from Backend.Model import FirstLayerDMM
+from Backend.query_manager import QueryManager
 from Backend.RealtimeSearchEngine import RealtimeSearchEngine
 from Backend.Automation import Automation
 from Backend.SpeechToText import SpeechRecognition
 from Backend.Chatbot import Chatbot
+
 from Backend.TextToSpeech import TextToSpeech
 from dotenv import dotenv_values
 from asyncio import run
@@ -524,7 +527,11 @@ id = 0
 # names related to ids: example ==> Marcelo: id=1,  etc
 names = ['None', 'mahto Sandeep', 'Jay', 'Ilza', 'Z', 'W', ''] # Corrected typo and added placeholder
 
-cam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning
+cam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning   
+
+if not cam.isOpened():
+    print("Error: Could not open video device")
+    # Handle the error (exit or continue without facial recognition)
 cam.set(3, 640) # set video FrameWidht
 cam.set(4, 480) # set video FrameHeight
 
@@ -1439,7 +1446,6 @@ def parse_command(command: str) -> tuple[str | None, str | None, str | None]:
     except Exception as e:
         print(f"Error parsing command: {str(e)}")
         return None, None, None
-
 def MainExecution():
     global sleep_mode, personalization_engine, pattern_recognition, predictive_assistance, system_monitor, reminder_system
     
@@ -1472,17 +1478,41 @@ def MainExecution():
     
     # Normal operation
     set_assistant_status("Listening...")
+    
+    # First try to get voice input
     Query = SpeechRecognition()
+    is_text_query = False
+    
+    # If we got voice input, modify it
+    if Query:
+        Query = query_modifier(Query)
+    else:
+        # If no voice input, set is_text_query to True since we'll be handling text commands
+        is_text_query = True
     
     if not Query:
         return False
     
-    # Log exact voice command for debugging
-    print(f"\n=== VOICE COMMAND RECEIVED: '{Query}' ===")
+    # Log command for debugging
+    if is_text_query:
+        print(f"\n=== TEXT COMMAND RECEIVED: '{Query}' ===")
+    else:
+        print(f"\n=== VOICE COMMAND RECEIVED: '{Query}' ===")
         
     show_text_to_screen(f"{Username} : {Query}")
     set_assistant_status("Thinking...")
-    
+
+    # --- ADVANCED TODO QUERY ROUTING ---
+    # Use QueryManager to check if this is a supported advanced todo command
+    qm = QueryManager()
+    todo_commands = qm.parse_query(Query)
+    if todo_commands and personalization_engine:
+        print(f"Routing to advanced todo system: {todo_commands}")
+        response = personalization_engine.process_query_with_manager(Query)
+        show_text_to_screen(f"{Assistantname} : {response}")
+        TextToSpeech(response)
+        return True
+
     # Check for reminder display commands
     if any(phrase in Query.lower() for phrase in ["show reminders", "show daily reminders", "show today reminders", "show all reminders", "what are my reminders", "list reminders", "display reminders", "so reminders", "so what are my reminders","so daily reminders","so today reminders","so all reminders","so what are my reminders","so list reminders","so display reminders"]):
         print("DEBUG: Show reminders command recognized!")
@@ -2107,23 +2137,25 @@ def MainExecution():
                 # This is now handled in the dedicated Instagram section above
                 pass
 
+
 def FirstThread():
     MainExecution()
     while True:
+        try:
+            CurrentStatus = get_microphone_status()
 
-        CurrentStatus = get_microphone_status()
-
-        if CurrentStatus == "True":
-            MainExecution()
-
-        else:
-            AIStatus = get_microphone_status()
-
-            if "Available... " in AIStatus:
-                sleep(0.1)
-
+            if CurrentStatus == "True":
+                MainExecution()
             else:
-                set_assistant_status("Available...")
+                AIStatus = get_microphone_status()
+
+                if "Available... " in AIStatus:
+                    sleep(0.1)
+                else:
+                    set_assistant_status("Available...")
+        except Exception as e:
+            print(f"Error in FirstThread: {e}")
+            sleep(1)
 
 def SecondThread():
 
@@ -2184,6 +2216,10 @@ def make_call(contact_name, call_type="audio"):
             error_msg = f"*with regret* Contact {contact_name} not found"
             print(error_msg)
             return False
+        
+        # Clean the phone number - remove country codes like +91 and non-digit characters
+        number = clean_phone_number(number)
+        print(f"Cleaned phone number: {number}")  # Debug log
             
         # Try to open WhatsApp Desktop app using the existing function
         if not open_whatsapp_app():
@@ -2243,6 +2279,23 @@ def make_call(contact_name, call_type="audio"):
         print("Also ensure the window is in focus and not covered by other windows")
         return False
 
+def clean_phone_number(number):
+    """Remove country codes and special characters from phone number"""
+    # Remove common country codes
+    country_codes = ['+91', '+1', '+44', '+86', '+81', '+49', '+33', '+7', '+61']
+    
+    for code in country_codes:
+        if number.startswith(code):
+            number = number[len(code):]  # Remove the country code
+            break
+    
+    # Remove any non-digit characters (spaces, dashes, parentheses, etc.)
+    import re
+    number = re.sub(r'\D', '', number)
+    
+    return number
+    
+
 if __name__ == "__main__":
     
     # Initialize reminder system
@@ -2252,4 +2305,6 @@ if __name__ == "__main__":
     thread2 = threading.Thread(target=FirstThread, daemon=True)
     thread2.start()
     SecondThread()
-
+    thread1 = threading.Thread(target=SecondThread, daemon=True)
+    thread1.start()
+    
